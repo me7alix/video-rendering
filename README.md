@@ -10,3 +10,6 @@ https://github.com/user-attachments/assets/d782cdd0-ed0b-43de-a194-a2e230fadcc4
 cc -O3 main.c -lm
 ./a.out
 ```
+
+#### Inspired by: https://youtu.be/xNX9H_ZkfNE?si=csAZgb_gxUj34yD5
+#### Mandelbulb SDF: https://iquilezles.org/articles/mandelbulb/
